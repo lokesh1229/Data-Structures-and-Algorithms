@@ -40,7 +40,7 @@ Data-Structures-and-Algorithms/
 
 ## 🧠 Topics Covered
 
-| Category            | Problems |
+<!-- | Category            | Problems |
 |---------------------|----------|
 | ✅ Arrays           | ✔️ Done   |
 | ✅ Linked List      | ✔️ Done   |
@@ -48,7 +48,7 @@ Data-Structures-and-Algorithms/
 | ✅ Graphs           | 🚧 In Progress |
 | ✅ Recursion        | ✔️ Done   |
 | ✅ Dynamic Programming | 🚧 Coming Soon |
-| ✅ Strings          | ✔️ Done   |
+| ✅ Strings          | ✔️ Done   | -->
 
 ---
 
