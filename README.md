@@ -17,6 +17,15 @@ Data Structures and Algorithms
 
 ## 📂 Folder Structure
 
+Data-Structures-and-Algorithms/
+├── Arrays/
+├── LinkedList/
+├── Trees/
+├── Graphs/
+├── Strings/
+├── Recursion/
+├── DynamicProgramming/
+└── README.md
 
 ---
 
